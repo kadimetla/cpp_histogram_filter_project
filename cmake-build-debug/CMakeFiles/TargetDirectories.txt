@@ -1,3 +1,0 @@
-/Volumes/xternal/devprojects/udacity_workspace/self_driving_cars_intro_workspace/udacity_cpp_histogram_filter_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Volumes/xternal/devprojects/udacity_workspace/self_driving_cars_intro_workspace/udacity_cpp_histogram_filter_project/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Volumes/xternal/devprojects/udacity_workspace/self_driving_cars_intro_workspace/udacity_cpp_histogram_filter_project/cmake-build-debug/CMakeFiles/udacity_cpp_histogram_filter_project.dir

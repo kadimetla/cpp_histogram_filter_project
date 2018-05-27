@@ -1,4 +1,0 @@
-/Volumes/xternal/devprojects/kudu_workspace/kudu/thirdparty/installed/common/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Volumes/xternal/devprojects/udacity_workspace/self_driving_cars_intro_workspace/udacity_cpp_histogram_filter_project
--- Configuring done
--- Generating done
--- Build files have been written to: /Volumes/xternal/devprojects/udacity_workspace/self_driving_cars_intro_workspace/udacity_cpp_histogram_filter_project/cmake-build-debug
