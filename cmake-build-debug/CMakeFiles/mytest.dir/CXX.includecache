@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/xternal/devprojects/udacity_workspace/self_driving_cars_intro_workspace/udacity_cpp_histogram_filter_project/mytest.cpp
+iostream
+-
+stdlib.h
+-
+vector
+-
+mytest.h
+/Volumes/xternal/devprojects/udacity_workspace/self_driving_cars_intro_workspace/udacity_cpp_histogram_filter_project/mytest.h
+
+/Volumes/xternal/devprojects/udacity_workspace/self_driving_cars_intro_workspace/udacity_cpp_histogram_filter_project/mytest.h
+
